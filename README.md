@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcginniswj
-- 👀 I’m interested in web development in HTML, CSS, and Javascript.
-- 🌱 I’m currently learning full stack web development with The Odin Project (TOP).
+- 👀 I’m interested in web development in HTML, CSS, and Javascript as well as Embedded programming.
+- 🌱 I’m currently learning full stack web development with The Odin Project (TOP), and expanding my C++ skills. 
 - 💞️ I’m looking to collaborate on full-time Software Engineer entry-level positions.
 - 📫 How to reach me: williammcginnis956@gmail.com  205-243-6376 https://linkedin.com/in/william-mcginnis.
 - 😄 Pronouns: he/him
